@@ -17,22 +17,17 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+      <a href="https://www.instagram.com/yuvi_mohite_88/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+      <a href="https://www.linkedin.com/in//" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
+  <a href="https://github.com/Yuvi8bit" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
   </a>
 </td>
@@ -52,7 +47,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
@@ -224,16 +219,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 --> 
-
-
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
-</p>
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
